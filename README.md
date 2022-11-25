@@ -2,7 +2,7 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/architecture-website-design)
   ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/architecture-website-design)
-  ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/architecture-website-design?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/architecture-website-design/?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
   
   <br>
