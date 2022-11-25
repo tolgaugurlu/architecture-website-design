@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/Google-Search-Box)
-  ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/Google-Search-Box)
-  ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/Google-Search-Box?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/architecture-website-design/Mimarlık-Website)
+  ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/architecture-website-design/Mimarlık-Website)
+  ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/architecture-website-design/Mimarlık-Website?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
   
   <br>
