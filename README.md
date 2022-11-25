@@ -1,11 +1,19 @@
-# Mimar Website Tasarımı
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/Google-Search-Box)
+  ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/Google-Search-Box)
+  ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/Google-Search-Box?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
+  
+  <br>
+  
+  <h2 align="center">Architecture Website</h2>
 
-## LANGUAGE
+  The project is built using HTML5, CSS3 & Javascript.
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <a href="https://tolgaugurlu.github.io/Google-Search-Box/google-search-box-main"><strong>➥ Live Demo</strong></a>
+
+</div>
 
 ## Demo Video
 
