@@ -15,10 +15,6 @@
 
 </div>
 
-## Demo Video
-
-https://user-images.githubusercontent.com/85436268/195987837-2fdaf4c4-25fb-4d28-89f7-e99662d41f90.mov
-
 ## Photo
 
 
