@@ -11,7 +11,7 @@
 
   The project is built using HTML5, CSS3 & Javascript.
 
-  <a href="https://tolgaugurlu.github.io/Google-Search-Box/google-search-box-main"><strong>➥ Live Demo</strong></a>
+  <a href="https://tolgaugurlu.github.io/architecture-website-design/Mimarlık-Website"><strong>➥ Live Demo</strong></a>
 
 </div>
 
